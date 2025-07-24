@@ -10,8 +10,7 @@ export default function LandingPage() {
           nature indoors with our carefully curated collection of plants that will transform your living space into a
           green oasis. From low-maintenance succulents to statement-making tropical plants, we have everything you need
           to create your perfect indoor garden.</p>
-      <button onClick={() => navigate('/products')}>Started</button>
+      <button onClick={() => navigate('/products')}>Get Started</button>
     </div>
-
   );
 }
